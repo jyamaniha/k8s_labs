@@ -9,5 +9,5 @@ spec:
       port: 80
       nodePort: 30080
   selector:
-    app:webapp
+    app: webapp
     type: front-end
